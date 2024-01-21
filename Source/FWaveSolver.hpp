@@ -14,6 +14,7 @@
  *    Homepage: http://www5.in.tum.de/wiki/index.php/Dipl.-Math._Alexander_Breuer
  *    E-Mail: breuera AT in.tum.de
  *
+ *  for homework
  ****
  *
  * (Main) Literature:
