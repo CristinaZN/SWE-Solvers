@@ -276,7 +276,7 @@ namespace Solvers {
         hRight_      = hLeft_;
         bRight_      = bLeft_;
         huRight_     = -huLeft_;
-        uLeft_       = -uRight_;
+        uRight_      = -uLeft_;
         wetDryState_ = WavePropagationSolver<T>::WetDryState::WetDryWall;
       } else { // Both cells wet
         uLeft_  = huLeft_ / hLeft_;
